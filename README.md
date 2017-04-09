@@ -256,4 +256,4 @@ Pode-se criar um protocolo chamado Descritivel que terá uma função descriçã
 
 Assim, você pode adicionar a quantidade de itens de classes diferentes que quiser, desde que sejam Descritiveis, para que consigam ser impressas no cardápio.
 
-
+** Continua, estou desenvolvendo o resto **
